@@ -2,7 +2,7 @@
 
 ## TL;DR
 
-Our free [COVID-19 Stats and New API](https://developer.smartable.ai/) lets you send a web-based query to Smartable AI and get back details about global and regional coronavirus data, including latest numbers, historic values, and geo-breakdowns. It is the same API that powers [our popular COVID-19 stats pages](https://smartable.ai/apps/coronavirus/stats/). Developers can take the returned information and display it in their own tools, apps and visualizations. Different from other coronavirus data sources that produce breaking changes from time to time, our API strives to be stable, detailed and close to real-time, by leveraging AI to gather information from many credible sources. With a few clicks in our API try-it experience, developers can get it running quickly and unleash their creativity.
+Our free [COVID-19 Stats and New API](https://rapidapi.com/SmartableAI/api/coronavirus-smartable) lets you send a web-based query to Smartable AI and get back details about global and regional coronavirus data, including latest numbers, historic values, and geo-breakdowns. It is the same API that powers [our popular COVID-19 stats pages](https://smartable.ai/apps/coronavirus/). Developers can take the returned information and display it in their own tools, apps and visualizations. Different from other coronavirus data sources that produce breaking changes from time to time, our API strives to be stable, detailed and close to real-time, by leveraging AI to gather information from many credible sources. With a few clicks in our API try-it experience, developers can get it running quickly and unleash their creativity.
 
 ## Our Mission
 
@@ -17,15 +17,13 @@ The coronavirus stats and news API offers the latest and historic COVID-19 stats
 
 The API takes the location ISO code as input (e.g. US, US-MA), and returns the latest numbers (confirmed, deaths, recovered), the delta from yesterday, the full history in that location, and geo-breakdown when applicable.  We offer detailed API documentation, a try-it experience, and code examples in many different programming languages.
 
-![API Documentation](https://smartable.azureedge.net/media/2020/03/coronavirus-api-documentation.webp)
-
-We want it to be a collaborative effort.  If you have any additional requirements for the API or observe anything wrong with the data, we welcome you to [report issues](https://github.com/SmartableAI/coronavirus-api/issues).  The team will jump in right away.  All our team members are ex-Microsoft employees, so you can trust the quality of support, I guess 🙂
+We want it to be a collaborative effort.  If you have any additional requirements for the API or observe anything wrong with the data, we welcome you to [report issues](https://github.com/SmartableAI/developer-program/issues).  The team will jump in right away.  All our team members are ex-Microsoft employees, so you can trust the quality of support, I guess 🙂
 
 ## Our Example Apps powered by the API
 
 We have developed two example apps by using the API.
 
-### [COVID-19 Live Stats+News](https://smartable.ai/apps/coronavirus/stats/)
+### [COVID-19 Live Stats+News](https://smartable.ai/apps/coronavirus/)
 
 ![COVID-19 Live Stats+News](https://smartable.azureedge.net/media/2020/03/coronavirus-stats.webp)
 
