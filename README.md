@@ -17,7 +17,7 @@ The coronavirus stats and news API offers the latest and historic COVID-19 stats
 
 The API takes the location ISO code as input (e.g. US, US-MA), and returns the latest numbers (confirmed, deaths, recovered), the delta from yesterday, the full history in that location, and geo-breakdown when applicable.  We offer detailed API documentation, a try-it experience, and code examples in many different programming languages.
 
-We want it to be a collaborative effort.  If you have any additional requirements for the API or observe anything wrong with the data, we welcome you to [report issues](https://github.com/SmartableAI/developer-program/issues).  The team will jump in right away.  All our team members are ex-Microsoft employees, so you can trust the quality of support, I guess 🙂
+We want it to be a collaborative effort.  If you have any additional requirements for the API or observe anything wrong with the data, we welcome you to [report issues](https://github.com/SmartableAI/developer-program/issues).  The team will jump in right away.
 
 ## Apps powered by the API
 
