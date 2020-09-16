@@ -1,7 +1,3 @@
----
-title: Smartable AI Developer Program
----
-
 # Coronavirus API
 
 ## TL;DR
