@@ -1,4 +1,4 @@
-# [Coronavirus API](https://rapidapi.com/SmartableAI/api/coronavirus-smartable)
+# [Coronavirus News & Stats API](https://rapidapi.com/SmartableAI/api/coronavirus-smartable)
 
 ## TL;DR
 
