@@ -1,4 +1,4 @@
-# Coronavirus API
+# [Coronavirus API](https://rapidapi.com/SmartableAI/api/coronavirus-smartable)
 
 ## TL;DR
 
@@ -19,21 +19,10 @@ The API takes the location ISO code as input (e.g. US, US-MA), and returns the l
 
 We want it to be a collaborative effort.  If you have any additional requirements for the API or observe anything wrong with the data, we welcome you to [report issues](https://github.com/SmartableAI/developer-program/issues).  The team will jump in right away.  All our team members are ex-Microsoft employees, so you can trust the quality of support, I guess 🙂
 
-## Our Example Apps powered by the API
-
-We have developed two example apps by using the API.
+## Apps powered by the API
 
 ### [COVID-19 Live Stats+News](https://smartable.ai/apps/coronavirus/)
-
-![COVID-19 Live Stats+News](https://smartable.azureedge.net/media/2020/03/coronavirus-stats.webp)
-
-Offers interactive stats+news per country/state, powered by our API.
-
 ### [COVID-19 Android app](https://smartable.ai/apps/coronavirus/android)
-
-![COVID-19 Android app](https://smartable.azureedge.net/media/2020/03/coronavirus-android-app.webp)
-
-Offers a professional app of all things COVID-19, powered by our API.
 
 ## About Smartable AI
 
