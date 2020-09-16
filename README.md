@@ -21,8 +21,8 @@ We want it to be a collaborative effort.  If you have any additional requirement
 
 ## Apps powered by the API
 
-### [COVID-19 Live Stats+News](https://smartable.ai/apps/coronavirus/)
-### [COVID-19 Android app](https://smartable.ai/apps/coronavirus/android)
+- [COVID-19 Live Stats+News](https://smartable.ai/apps/coronavirus/)
+- [COVID-19 Android app](https://smartable.ai/apps/coronavirus/android)
 
 ## About Smartable AI
 
